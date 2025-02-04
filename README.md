@@ -31,9 +31,13 @@ The **isobaric process** occurs at constant pressure ($P = \text{constant}$). In
 
 Since the pressure remains constant, the system can exchange heat with its surroundings, and the temperature may vary depending on the amount of heat added or removed.
 
+
+![TDA_PVanalysis](https://github.com/sagooon/TDA_PVanalysis/blob/main/main.ipynb.png)
+
 <div align="center">
-![TDA_PVanalysis](main.ipynb.png)
+Fig. TDA_PVanalysis on action
 </div>
+
 
 ### Why Adiabatic Curves Are Steeper
 
